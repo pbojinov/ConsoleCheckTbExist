@@ -19,6 +19,8 @@ http://storage.conduit.com/PS/utilities/mini/mchecktbexist.exe
 
 Make sure the utility is in the same folder as the program being debugged.
 
-In our case, place the `mchecktbexist.exe` utitlity in the following path after downloading it:
+-- 
+
+In our case, we placed the `mchecktbexist.exe` utitlity in the following path after downloading it:
 
 [ConsoleCheckTbExist/tree/master/ConsoleCheckTbExist/bin/Debug](https://github.com/pbojinov/ConsoleCheckTbExist/tree/master/ConsoleCheckTbExist/bin/Debug)
