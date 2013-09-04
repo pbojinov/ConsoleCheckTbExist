@@ -1,0 +1,6 @@
+c:\users\petar\documents\visual studio 2012\Projects\ConsoleCheckTbExist\ConsoleCheckTbExist\bin\Debug\ConsoleCheckTbExist.exe.config
+c:\users\petar\documents\visual studio 2012\Projects\ConsoleCheckTbExist\ConsoleCheckTbExist\obj\Debug\ConsoleCheckTbExist.csprojResolveAssemblyReference.cache
+c:\users\petar\documents\visual studio 2012\Projects\ConsoleCheckTbExist\ConsoleCheckTbExist\bin\Debug\ConsoleCheckTbExist.exe
+c:\users\petar\documents\visual studio 2012\Projects\ConsoleCheckTbExist\ConsoleCheckTbExist\bin\Debug\ConsoleCheckTbExist.pdb
+c:\users\petar\documents\visual studio 2012\Projects\ConsoleCheckTbExist\ConsoleCheckTbExist\obj\Debug\ConsoleCheckTbExist.exe
+c:\users\petar\documents\visual studio 2012\Projects\ConsoleCheckTbExist\ConsoleCheckTbExist\obj\Debug\ConsoleCheckTbExist.pdb
