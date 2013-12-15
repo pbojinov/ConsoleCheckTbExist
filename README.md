@@ -38,3 +38,7 @@ In our case, we placed the `mchecktbexist.exe` utitlity in the following path af
 4 - Internet Connection Error
 
 5 - Failed to Install a Module
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/pbojinov/consolechecktbexist/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
